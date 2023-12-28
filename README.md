@@ -1,5 +1,5 @@
 <h1> Hi! My name is Salman Shaikh 👋 </h1>
-A passionate Front-end React Developer based in Pune, India.📍
+A passionate Front-end Developer based in Pune, India.📍
 <h3>My Skills</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,vscode,)](https://skillicons.dev)
