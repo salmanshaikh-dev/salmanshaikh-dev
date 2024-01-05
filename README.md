@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **Front-End Development**
 
-- 📫 Reach me at **salmanchandsahabshaikh@gmail.com**
+- 📫 Reach me at - **salmanchandsahabshaikh@gmail.com**
 
-- ⚡ Fun fact **Angler🎣**
+- ⚡ Full time Coder part-time - **Angler🎣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
