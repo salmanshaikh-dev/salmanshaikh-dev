@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Front-End Development**
 
-- 📫 How to reach me **salmanchandsahabshaikh@gmail.com**
+- 📫 Reach me at **salmanchandsahabshaikh@gmail.com**
 
 - ⚡ Fun fact **Angler🎣**
 
