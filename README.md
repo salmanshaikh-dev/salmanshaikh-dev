@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Front-End Development**
 
-- 📫 Reach me at - **salmanchandsahabshaikh@gmail.com**
+- 📫 Reach me at - **salmanshaikh.dev@gmail.com**
 
 - ⚡ Hobby - **Angling🎣**
 
