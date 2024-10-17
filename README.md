@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Branch-Furniture]((https://github.com/WebDev-Fun/Branch-Furniture))
 
-- 🌱 I’m currently learning **The Frontend Developer Career Path**
+- 🌱 I’m currently learning **The Frontend Developer Career Path by SCRIMBA**
 
 - 👯 I’m looking to collaborate on **Web -Development projects**
 
