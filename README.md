@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Branch-Furniture]((https://github.com/WebDev-Fun/Branch-Furniture))
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **The Frontend Developer Career Path**
 
-- 👯 I’m looking to collaborate on **Front-End Development**
+- 👯 I’m looking to collaborate on **Web -Development projects**
 
 - 📫 Reach me at - **salmanshaikh.dev@gmail.com**
 
