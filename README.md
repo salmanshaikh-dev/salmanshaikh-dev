@@ -1,15 +1,9 @@
 [![MasterHead](https://github.com/salmanshaikh-dev/salmanshaikh-dev/blob/main/salmanshaikh-dev%20cover%20photo.png)]((https://salmanshaikh-dev.github.io/Pulse-CashFlow/))
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🔭 I’m currently working on [Branch-Furniture]((https://github.com/WebDev-Fun/Branch-Furniture))
-
 - 🌱 I’m currently learning **The Frontend Developer Career Path by SCRIMBA**
 
-- 👯 I’m looking to collaborate on **Web -Development projects**
-
 - 📫 Reach me at - **salmanshaikh.dev@gmail.com**
-
-- ⚡ Hobby - **Angling🎣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
